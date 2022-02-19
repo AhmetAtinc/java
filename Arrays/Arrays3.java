@@ -1,35 +1,25 @@
-package ahmetDeneme5;
+package Deneme1;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.ArrayList;
 
-public class Q2Replit {
+public class ArrTersSayi {
 
 	public static void main(String[] args) {
+		
 		/*
-		 * Kullanýcýdan bir cümle alýn. Kullanýcýdan alýnan cümleyi parametre olarak kabul edin, Array kullanarak cümleyi ters çevirin
-		 *  ve sonucu ana metoda String olarak döndüren bir Method yazýn.
+		 * 1-	Array ile Sayýyý tersine çevirmek için bir dönüþ yöntemi yazýn.
 
-			Not: Büyük ve küçük harfler, boþluklar ve özel karakterler deðiþtirilmeyecektir.
+			Giriþ: 12345
 
-	Giriþ :    Kod yazmak çok güzel.
+			Çýkýþ : 54321
 
-Çýktý :		.edoc etirw ot ecin yrev si tI
 		 */
-
-//		Scanner scan=new Scanner(System.in);
-//		System.out.println("cumle giriniz");
-		String arr[]= {"Kod yazmak çok güzel."};
 		
-		String ters[]=arr[arr.length-1].split("");
+		int arr[]= {1,2,3,4,5};
 		
-		for (int i = ters.length-1; i >= 0; i--) {
-			
-	
-			System.out.print(ters[i]+"");
+		for (int i = arr.length; i > 0 ; i--) {
+			System.out.print(i);
 		}
-		
-		
 		
 	}
 
