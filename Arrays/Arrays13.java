@@ -1,4 +1,4 @@
-package halukHocadanGelenler1._JavaInterviewPrep.interviewQuestions;
+package deneme1;
 
 public class DuplicateValueInArray {
 
