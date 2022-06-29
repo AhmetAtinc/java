@@ -1,4 +1,4 @@
-package halukHocadanGelenler0.HomeWork.HomeworkDay9;
+package HomeworkDay9;
 
 public class HomeworkPackages {
 
