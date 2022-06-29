@@ -3,6 +3,7 @@ package halukHocadanGelenler0.HomeWork.HomeworkDay9;
 public class HomeworkPackages {
 
 	public static void main(String[] args) {
+		
 		//Which of the following is/are true about packages in Java?
 		//
 		//1) Every class is part of some package.
