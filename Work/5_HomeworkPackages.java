@@ -1,5 +1,4 @@
 package HomeworkDay9;
-
 public class HomeworkPackages {
 
 	public static void main(String[] args) {
