@@ -5,7 +5,7 @@ public class Homework {
 	public static void main(String[] args) {
 		// 1. Write program that gets two inputs from user then prints sum
 		
-		
+	
 		int a=3;
 		int b=5;
 		int sum=a+b;
@@ -25,7 +25,6 @@ public class Homework {
 		int sub=num - num1;
 		System.out.println(total);
 		System.out.println(sub);
-		
 		
 		
 	    //    ex: one plus nine => 10, four subtract 2 => 2
