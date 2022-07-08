@@ -33,7 +33,7 @@ public class hw {
 //	    c) 3 and 4
 //	    d) All statements are correct.
 	//
-	//
+		//
 	//
 //	    What is the output of this program?
 	//
@@ -71,5 +71,4 @@ public class hw {
 //		
 //		Answer:A
 	}
-
 }
