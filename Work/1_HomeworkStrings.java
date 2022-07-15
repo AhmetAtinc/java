@@ -54,5 +54,4 @@ public class HomeworkStrings {
 //		
 //		Answer: D
 	}
-
 }
