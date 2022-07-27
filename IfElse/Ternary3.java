@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class C06_NestedTernary {
 
 	public static void main(String[] args) {
-		//Verilen karakteri inceleyin, Kucuk harf ise consola “Kucuk Harf” , buyuk harfse
-		//consola “Buyuk Harf” yoksa “girdiginiz karakter harf degil” yazdirin.
+		//Verilen karakteri inceleyin, Kucuk harf ise consola â€œKucuk Harfâ€ , buyuk harfse
+		//consola â€œBuyuk Harfâ€ yoksa â€œgirdiginiz karakter harf degilâ€ yazdirin.
 
 		
-		 
 	        char krk = '&';
 	        
 	        
@@ -21,8 +20,6 @@ public class C06_NestedTernary {
 		
 		
 		System.out.println(sonuc);
-		
-		
 		
 		
 		

@@ -1,4 +1,4 @@
-package halukHocadanGelenler0.HomeWork.HomeworkDay6;
+package HomeworkDay6;
 
 public class HomeworkStrings {
 
@@ -54,5 +54,4 @@ public class HomeworkStrings {
 //		
 //		Answer: D
 	}
-
 }

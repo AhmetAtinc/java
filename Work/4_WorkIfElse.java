@@ -1,4 +1,4 @@
-package halukHocadanGelenler0.HomeWork.HomeworkDay9;
+package HomeworkDay9;
 
 public class HomeworkIfElse {
 
@@ -26,10 +26,10 @@ public class HomeworkIfElse {
 	////3. Runtime Error
 	////4. BYE
 	
-	
+
 //	Answer:2
 		
-		
+
 	//
 //	    public class Test {
 //	        public static void main(String[] args)
